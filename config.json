@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/docshare",
+    "secret": "uoNzkh0VMwbu7IsGVbIpUfZCO60K8Afx"
+}
